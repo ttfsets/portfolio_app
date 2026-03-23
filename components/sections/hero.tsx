@@ -46,7 +46,7 @@ export function HeroSection() {
         </p>
 
         <h1 className="mb-8 text-5xl font-bold leading-[1.1] tracking-tight sm:text-6xl lg:text-7xl xl:text-8xl">
-          Crafting Digital
+          <span style={{ color: "#f5e97a" }}>Crafting Digital</span>
           <br />
           <span className="text-muted-foreground">Experiences</span>
         </h1>
